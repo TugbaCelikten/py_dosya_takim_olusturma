@@ -1,0 +1,4 @@
+"futbolcular.txt" şeklinde bir dosya olusturduk ve
+icine Göztepe, Fenerbahçe ve Beşiktaş'ta oynayan futbolcuları rastgele yerlestirdik.
+Bu dosyadan her bir takımın futbolcularını ayırarak
+"goz.txt" , "fb.txt", "bjk.txt" şeklinde 3 farklı dosyaya yazmaya calisiyoruz.
